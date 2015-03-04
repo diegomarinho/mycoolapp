@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "mycoolapp",
+    "packageName": "net.kamradtfamily.mycoolapp",
+    "packageFolder": "net/kamradtfamily/mycoolapp",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "9f257312d893c1aefd0e29a86bc45bd2bfef31b3"
+  }
+}
